@@ -5,7 +5,7 @@ const players = [
     nationality: "Argentina",
     jerseyNumber: 10,
     age: 36,
-    imageUrl: "https://i.imgur.com/fh7FghF.png",
+    imageUrl: "/images/messi.jpg",
   },
   {
     name: "Cristiano Ronaldo",
@@ -13,7 +13,7 @@ const players = [
     nationality: "Portugal",
     jerseyNumber: 7,
     age: 39,
-    imageUrl: "https://i.imgur.com/h8VdxW2.png",
+    imageUrl: "/images/ronaldo.jpg",
   },
   {
     name: "Kylian Mbappé",
@@ -21,7 +21,7 @@ const players = [
     nationality: "France",
     jerseyNumber: 7,
     age: 25,
-    imageUrl: "https://i.imgur.com/6v3QnX7.png",
+    imageUrl: "/images/mbappe.jpg",
   },
   {
     name: "Erling Haaland",
@@ -29,7 +29,7 @@ const players = [
     nationality: "Norway",
     jerseyNumber: 9,
     age: 24,
-    imageUrl: "https://i.imgur.com/OLzxJYV.png",
+    imageUrl: "/images/haaland.jpg",
   },
 ];
 
